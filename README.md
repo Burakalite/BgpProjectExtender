@@ -10,7 +10,7 @@ The function achieves this with use of a calculation table and the DriveWorks my
 
 The above rule can replace all of the mentioned base Model Rules, simplyfying project maintainability by consolidating these rules in an informative calculation table, and eliminating the set of unique rules under Model Rules that would otherwise be required for each custom property, file name, configuration, and custom property rule.
 
-The calculation table used must include the master part/assembly/drawing names in the first column, and the associated custom properties for myName() to find within the header row.
+The calculation table used must include the master part/assembly/drawing names in the first column, and the associated custom properties for myName() to find within the header row, example:
 
 ![CalcTable](https://user-images.githubusercontent.com/43711346/90264322-eb857a80-de1e-11ea-9e3f-966d881bb909.png)
 
