@@ -6,7 +6,7 @@ The function is used directly within the base rules found under the **Model Rule
 
 The function achieves this with use of a calculation table and the DriveWorks myName() function, written in the single form: 
 
-`PopulateMasterFileProperty(CalcTable, myName())`
+`PopulateMasterFileProperty(CalcTable, MyName())`
 
 The above allows easy replacement of all of the mentioned base Model Rules, simplyfying project maintainability by consolidating these rules in an easyly viewed and informative calculation table.
 
