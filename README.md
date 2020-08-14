@@ -10,6 +10,4 @@ The function achieves this with use of a calculation table and the DriveWorks my
 
 The above rule can replace all of the mentioned base Model Rules with this one rule, simplyfying project maintainability by consolidating these rules in an informative calculation table, and eliminating the set of unique rules under Model Rules that would otherwise be required for each custom property, file name, configuration, etc.
 
-The calculation table used must include the master part/assembly/drawing names in the first column, and the associated custom properties in the header row, example:
-
-![CalcTable](/CalcTable.png)
+The calculation table used must include the master part/assembly/drawing names in the first column, and the associated custom properties in the header row.
