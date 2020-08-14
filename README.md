@@ -12,6 +12,6 @@ The above rule can replace all of the mentioned base Model Rules, simplyfying pr
 
 The calculation table used must include the master part/assembly/drawing names in the first column, and the associated custom properties for myName() to find within the header row.
 
-![CalcTable](/CalcTable.png)
+![CalcTable](https://user-images.githubusercontent.com/43711346/90264322-eb857a80-de1e-11ea-9e3f-966d881bb909.png)
 
 To use, place release .dll file in the same file path as your DriveWorks project, and change the name to match the DriveWorks project as well.
