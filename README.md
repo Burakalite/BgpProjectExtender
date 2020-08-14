@@ -2,7 +2,7 @@
 
 A DriveWorks Project extender adding the new custom function "PopulateMasterFileProperty" for use within DriveWorks Administrator. 
 
-The function can be used directly within the base rules found under the **Model Rules** tab in the task explorer, and allows population of all file name, configuration, and user-assigned custom properties for all master parts, drawings, and assemblies - with a singular rule. 
+The function is used directly within the base rules found under the **Model Rules** tab in the task explorer, and allows population of all file name, configuration, and user-assigned custom properties for all master parts, drawings, and assemblies - with a single rule. 
 
 The function achieves this with use of a calculation table and the DriveWorks myName() function, written in the single form: 
 
@@ -12,5 +12,4 @@ The above rule can replace all of the mentioned base Model Rules with this one r
 
 The Calculation table used must include the master part/assembly/drawing names in the first column, and the associated custom properties in the header row, example:
 
-![GitHub Logo](/calctable.png)
-Format: ![Alt Text](url)
+![GitHub Logo](/images/calctable.png)
