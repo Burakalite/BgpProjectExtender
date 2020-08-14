@@ -8,7 +8,7 @@ The function achieves this with use of a calculation table and the DriveWorks my
 
 `PopulateMasterFileProperty(CalcTable, myName())`
 
-The above rule can replace all of the mentioned base Model Rules, simplyfying project maintainability by consolidating these rules in an informative calculation table, and eliminating the set of unique rules under Model Rules that would otherwise be required for each custom property, file name, configuration, and custom property rule.
+The above allows easy replacement of all of the mentioned base Model Rules, simplyfying project maintainability by consolidating these rules in an easyly viewed and informative calculation table.
 
 The calculation table used must include the master part/assembly/drawing names in the first column, and the associated custom properties for myName() to find within the header row, example:
 
