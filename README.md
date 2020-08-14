@@ -1,6 +1,6 @@
 # BgpProjectExtender
 
-A DriveWorks Project extender adding the new custom function "PopulateMasterFileProperty" for use within DriveWorks Administrator. 
+A DriveWorks Project Extender adding the new custom function "PopulateMasterFileProperty" for use within DriveWorks Administrator. 
 
 The function is used directly within the base rules found under the **Model Rules** tab in the Task Explorer, and allows population of all file name, configuration, and user-assigned custom properties for all master parts, drawings, and assemblies - with a single rule. 
 
