@@ -12,4 +12,4 @@ The above rule can replace all of the mentioned base Model Rules with this one r
 
 The Calculation table used must include the master part/assembly/drawing names in the first column, and the associated custom properties in the header row, example:
 
-![GitHub Logo](/images/calctable.png)
+![GitHub Logo](/images/CalcTable.png)
